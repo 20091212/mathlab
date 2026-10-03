@@ -1,0 +1,43 @@
+{
+ "ok": true,
+ "checks": [
+  [
+   "engine_calc",
+   true
+  ],
+  [
+   "engine_quadratic",
+   true
+  ],
+  [
+   "engine_linear",
+   true
+  ],
+  [
+   "engine_matrix",
+   true
+  ],
+  [
+   "engine_units",
+   true
+  ],
+  [
+   "gui_calc",
+   true
+  ],
+  [
+   "gui_plot_export",
+   true
+  ],
+  [
+   "gui_units_tab",
+   true
+  ],
+  [
+   "history_io",
+   true
+  ]
+ ],
+ "exe": "C:\\Users\\zl177\\mathlab\\dist\\MathLab.exe",
+ "meipass": true
+}
